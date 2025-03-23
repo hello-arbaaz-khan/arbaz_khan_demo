@@ -1,2 +1,2 @@
-# arbaz_khan_demo
+# 2nd_project
 This is my 2nd repository
